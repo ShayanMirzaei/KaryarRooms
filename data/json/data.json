@@ -1,0 +1,26 @@
+{
+  "rooms": [
+    {
+      "room_id": 1,
+      "name": "Meeting Room",
+      "floor": 1,
+      "capacity": 4
+    },
+    {
+      "room_id": 2,
+      "name": "Big Meeting Room",
+      "floor": 1,
+      "capacity": 8
+    }
+  ],
+  "users": [
+    {
+      "user_id": 1,
+      "name": "Meeting Room",
+      "role": "Manager"
+    }
+  ],
+  "meetings": [
+
+  ]
+}

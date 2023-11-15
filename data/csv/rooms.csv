@@ -1,0 +1,7 @@
+room_id, name, floor, capacity
+1, Meeting Room, 1, 4
+2, Big Meeting Room, 1, 8
+3, One on One Red, 2, 2
+4, One on One Blue, 2, 2
+5, One on One Yellow, 2, 2
+6, Conference Room, 3, 15
