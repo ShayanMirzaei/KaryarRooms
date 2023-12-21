@@ -9,6 +9,8 @@ class CsvDatabase(Database):
         self.data_path = data_path
 
     def get_all_rooms(self) -> list[Room]:
+        # code to open file
+        # return list of rooms
         pass
 
     def get_all_users(self) -> list[User]:
